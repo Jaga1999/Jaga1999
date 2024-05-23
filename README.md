@@ -2,12 +2,12 @@
 
 ## Full Stack Developer
 
-I'm Jagadeep, a full-stack developer with 1.6 years of experience, specializing in the MERN stack and proficient in Java, GoLang, and Python. Skilled in frameworks like React, Spring Boot, and Go Gin, I handle both SQL and NoSQL databases. Eager to explore new technologies and committed to continuous learning. Let's connect and collaborate on exciting projects! 🚀
+I'm Jagadeep, a full-stack developer with 2 years of experience, specializing in the MERN stack and proficient in Java, and Python. Skilled in frameworks like React, Spring Boot, I handle both SQL and NoSQL databases. Eager to explore new technologies and committed to continuous learning. Let's connect and collaborate on exciting projects! 🚀
 
 - 🌍 I'm based in Hosur, India
 - 🖥️ See my portfolio at [portfolio](https://jagadeep-portfolio-1.netlify.app/)
 - ✉️ You can contact me at [jagasiva1999@gmail.com](mailto:jagasiva1999@gmail.com)
-- 🚀 I'm currently working on [Basic Spring Boot Project](https://github.com/Jaga1999/todoapp)
+- 🚀 I'm currently working on [Spring Boot Project](https://github.com/Jaga1999/todoapp)
 - 🧠 I'm learning Java Spring Boot
 - 🤝 I'm open to collaborating on Instresting Projects
 
@@ -16,7 +16,6 @@ I'm Jagadeep, a full-stack developer with 1.6 years of experience, specializing 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="36" height="36" alt="CSS3" /></a>
