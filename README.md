@@ -83,9 +83,17 @@ Currently, I am engineering automated cloud solutions and optimizing data synchr
 
 ### 📊 GitHub Stats
 
-![Jaga1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaga1999&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaga1999&theme=radical&hide_border=true" alt="Jaga1999" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaga1999&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaga1999&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaga1999&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
+</p>
 
 ---
 
