@@ -81,14 +81,6 @@ Currently, I am engineering automated cloud solutions and optimizing data synchr
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jaga1999&show_icons=true&theme=radical&hide_border=true" />
-
-
-
----
-
 ### 🤝 Connect with me
 
 <p align="left">
