@@ -1,93 +1,40 @@
-# Hi there! I'm Jagadeep Sivaraman 👋
+# Hi, I'm Jagadeep Sivaraman 👋
+### Software Engineer – Cloud & Backend Integrations
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-## 🚀 Full Stack Developer | Performance Engineering Enthusiast
-
-I am a Full Stack Developer specializing in **Backend Optimization**, **Cloud-Native Architecture**, and **Scalable Infrastructure**. With a Master’s in Computer Science and over 2 years of hands-on experience, I focus on building efficient systems using the **MERN Stack**, **Java Spring Boot**, and **AWS Serverless** technologies.
-
-Currently, I am engineering automated cloud solutions and optimizing data synchronization workflows at **Mantra Collab Technologies**. I am passionate about reducing latency, securing infrastructure with **AWS Cognito**, and automating CI/CD pipelines.
-
-- 🌍 Based in **Hosur, India**
-- 💻 Working on: **Serverless Microservices & Cloud Optimization**
-- 🧠 Deepening knowledge in: **Advanced Spring Security & AWS Step Functions**
-- ✉️ Contact: [jagasiva1999@gmail.com](mailto:jagasiva1999@gmail.com)
-- 📂 Portfolio: [Check out my work](https://jagadeep-portfolio-1.netlify.app/)
+I am a backend and systems-focused engineer dedicated to writing clean, maintainable code and optimizing serverless cloud workflows. I have a proven track record of handling full production systems ownership, refactoring heavy database migration loops, and implementing enterprise-grade security layers.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Engineering Stack
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40" alt="Java" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40" alt="Python" />
-  </a>
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="40" height="40" alt="Go" />
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40" height="40" alt="NextJS" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" alt="Redux" />
-  </a>
-
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40" alt="NodeJS" />
-  </a>
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" height="40" alt="NestJS" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Boot" />
-  </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40" alt="MongoDB" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" alt="PostgreSQL" />
-  </a>
-
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="40" height="40" alt="AWS" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="40" height="40" alt="Docker" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" alt="Linux" />
-  </a>
-</p>
+* **Backend:** Node.js | NestJS | Express | Core Java | Spring Boot 4 | Spring Security 7 | Spring Data JPA
+* **Cloud & DevOps:** AWS (Lambda, Step Functions, Cognito, EC2, S3, EventBridge) | Docker | Jenkins | GitHub Actions
+* **Databases:** PostgreSQL | MongoDB
+* **Languages:** TypeScript | JavaScript | Java | Python
 
 ---
 
-### 🤝 Connect with me
+### 🚀 Highlighted Technical Repositories
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jagadeep-s/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jagasiva1999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+#### 🔐 [Distributed Authentication & Security Engine](YOUR_REPOSITORY_LINK)
+An enterprise-ready security blueprint built on the **Spring Boot 4 / Spring Security 7** stack.
+* Implemented asymmetric cryptographic token layers using **JSON Web Encryption (JWE), Signatures (JWS), and Token Identifiers (JTI)**.
+* Engineered a hybrid stateful-stateless architecture using **Spring Session backed by Redis** to track device fingerprints and handle instant token revocation.
+* Balanced performance by optimizing logic paths to reduce redundant relational database hits.
+
+#### 🕸️ [Unified GraphQL Data Gateway](YOUR_REPOSITORY_LINK)
+A centralized data gateway designed to unify multi-domain API responses using **Spring Boot and Netflix DGS GraphQL**.
+* Developed precise entity resolvers and custom schema query optimizations.
+* Prevented classic database $N+1$ fetch bottlenecks across decoupled storage layers.
+
+#### 🚗 [Car Reporting Service](YOUR_REPOSITORY_LINK)
+An asynchronous REST API engine leveraging **NestJS and TypeScript** to process multi-tier data sets.
+* Formulated rigid schema validations and route-based authorization guards.
+
+---
+
+### 📊 Professional Metrics & Domain Knowledge
+* **97% Latency Reduction:** Successfully re-architected a legacy 24-hour financial data ingestion loop down to 40 minutes on AWS infrastructure.
+* **Production Ownership:** Experienced in multi-tenant data parsing, cloud event automation (EventBridge/Step Functions), and resolving complex production memory leaks.
+
+📫 **Find Me On:** [LinkedIn](https://www.linkedin.com/in/jagadeep-s/)
